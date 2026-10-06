@@ -25,7 +25,7 @@ assetsSummary:
   variableMeasured: []
 citation: Silkuniene, Giedre; Semenov, Iurii; Pakhomov, Andrei (2026) Comparison of
   FluoVolt and Di-8-ANEPPS Responses to Plasma Membrane Polarization at Varying Electric
-  Field Strengths (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001518/draft
+  Field Strengths (Version 0.261006.1957) [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.001518/0.261006.1957
 contributor:
 - affiliation: []
   email: giedre.silkuniene@gmail.com
@@ -53,17 +53,31 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
 dateCreated: '2025-06-27T16:13:13.872446+00:00'
+datePublished: '2026-10-06T19:57:35.549118+00:00'
 description: 'This experiment compared the responses of FluoVolt and Di-8-ANEPPS voltage-sensitive
   dyes to CHO cell plasma membrane polarization under different electric field strengths. '
+doi: 10.48324/dandi.001518/0.261006.1957
 ethicsApproval: []
-id: DANDI:001518/draft
+id: DANDI:001518/0.261006.1957
 identifier: DANDI:001518
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001518/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001518/0.261006.1957/assets.yaml
 name: Comparison of FluoVolt and Di-8-ANEPPS Responses to Plasma Membrane Polarization
   at Varying Electric Field Strengths
+publishedBy:
+  endDate: '2026-10-06T19:57:35.549118+00:00'
+  id: urn:uuid:7b494d74-fb6b-4801-be10-6459b75f11c2
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2026-10-06T19:57:35.549118+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:c45b0d7b-41a8-496a-9e16-30a74f4feee0
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - identifier: 10.1016/j.bioelechem.2026.109283
   name: Sub-microsecond optical measurements of cell membrane charging and lesioning
@@ -74,8 +88,8 @@ relatedResource:
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.10
-url: https://dandiarchive.org/dandiset/001518/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001518/0.261006.1957
+version: 0.261006.1957
 wasGeneratedBy:
 - identifier: 5R21EY034803
   name: Next Generation Temporal Interference Stimulation for Non-Invasive Neuromodulation
